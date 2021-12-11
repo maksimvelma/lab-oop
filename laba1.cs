@@ -1,4 +1,4 @@
-﻿ такusing System;
+using System;
 
 namespace Laba1
 {
